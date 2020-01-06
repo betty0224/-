@@ -1,0 +1,22 @@
+http://www.cnblogs.com/zourong/p/5693668.html
+
+文章来源：https://www.npmjs.com/package/ftl-server
+源代码可参考：https://github.com/szmtcjm/ftl-server/blob/master/lib/config.js
+ftl-server 是一前端开发工具，支持解析freemarker模板，模拟后端接口，反向代理等功能。
+
+
+特性
+
+解析freemarker模板
+静态资源服务
+mock请求
+代理请求
+livereload
+weinre
+
+操作步骤
+npm install -g ftl-server
+ftl-server -c ./config.js
+
+
+
